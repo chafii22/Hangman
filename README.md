@@ -62,7 +62,7 @@ gcc -o hangman main.c -lSDL2 -lSDL2_ttf -lSDL2_image
 5. Player 1 enters a word
 6. Player 2 attempts to guess the word one letter at a time
 
-![Gameplay Screenshot](./assets/screenshots/gameplay.png)
+![Gameplay Screenshot](./assets/playing%20.jpg)
 <!-- Add your own screenshot by saving it in assets/screenshots/ folder -->
 
 ## Controls
